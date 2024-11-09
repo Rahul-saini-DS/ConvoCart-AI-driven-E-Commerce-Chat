@@ -3,11 +3,12 @@
 ## **Project Summary:**
 We'll use amazon's data for our project. You can either download data directly from [Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset), or  you can donwload using Kaggle's API.
 
-![ConvAI using LLMs ](https://github.com/Praveen76/Recommender-System-and-ConvAI-using-LLMs-on-e-commerce-Data/blob/main/Conversational%20AI.webp)
+![ConvAI using LLMs ](https://github.com/Rahul-saini-DS/ConvoCart-AI-driven-E-Commerce-Chat/blob/main/Conversational%20AI.webp)
 
 The idea of the project is to implement a Conversation AI for different tasks ( explained below).
 
 ## Conversational AI using LLMs:
+
 
   * Sentiment Analysis: We'll do sentiment analysis using BERT Model.
   * Generate Questions: We'll generate 4 questions per record that users could potentially ask to Virtual Assistant.
